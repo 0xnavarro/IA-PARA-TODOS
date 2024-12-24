@@ -5,13 +5,13 @@ from trl import SFTTrainer
 from transformers import TrainingArguments
 from unsloth.chat_templates import get_chat_template, standardize_sharegpt
 
-# Load model and tokenizer
+# Cargar modelo y tokenizador
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name="unsloth/Llama-3.2-3B-Instruct",
     max_seq_length=2048, load_in_4bit=True,
 )
 
-# Add LoRA adapters
+# Agregar adaptadores LoRA
 model = FastLanguageModel.get_peft_model(
     model, r=16,
     target_modules=[
@@ -20,7 +20,7 @@ model = FastLanguageModel.get_peft_model(
     ],
 )
 
-# Set up chat template and prepare dataset
+# Configurar plantilla de chat y preparar conjunto de datos
 tokenizer = get_chat_template(tokenizer, chat_template="llama-3.1")
 dataset = load_dataset("mlabonne/FineTome-100k", split="train")
 dataset = standardize_sharegpt(dataset)
@@ -34,7 +34,7 @@ dataset = dataset.map(
     batched=True
 )
 
-# Set up trainer
+# Configurar entrenador
 trainer = SFTTrainer(
     model=model,
     train_dataset=dataset,
@@ -53,8 +53,8 @@ trainer = SFTTrainer(
     ),
 )
 
-# Train the model
+# Entrenar el modelo
 trainer.train()
 
-# Save the finetuned model
+# Guardar el modelo ajustado
 model.save_pretrained("finetuned_model")

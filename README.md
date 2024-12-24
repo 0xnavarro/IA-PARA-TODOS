@@ -1,121 +1,142 @@
-<p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
-  </a>
-</p>
+# 🤖 IA-PARA-TODOS
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
-  </a>
-</p>
+<div align="center">
 
-<hr/>
+![GitHub stars](https://img.shields.io/github/stars/0xnavarro/IA-PARA-TODOS?style=social)
+![GitHub forks](https://img.shields.io/github/forks/0xnavarro/IA-PARA-TODOS?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/0xnavarro/IA-PARA-TODOS?style=social)
+![GitHub followers](https://img.shields.io/github/followers/0xnavarro?style=social)
 
-# 🌟 Awesome LLM Apps
+<img src="assets/banner.png" alt="IA-PARA-TODOS Banner" width="600px"/>
 
-A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
+**La mayor colección de aplicaciones y tutoriales de Inteligencia Artificial en español**
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/9876" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/9876" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
-  </a>
-</p>
+[Documentación](https://0xnavarro.github.io/IA-PARA-TODOS) |
+[Tutoriales](https://www.youtube.com/channel/UC-9foKZSXtH3zm-4b8qzbtA) |
+[Discord](https://discord.gg/TU_LINK) |
+[Twitter](https://twitter.com/0xnavarro)
 
-## 🤔 Why Awesome LLM Apps?
+</div>
 
-- 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
-- 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with RAG and AI Agents.
-- 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
+---
 
-## 📂 Featured AI Projects
+## 🌟 ¿Qué es IA-PARA-TODOS?
 
-### AI Agents
-- [💼 AI Customer Support Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_customer_support_agent)
-- [📈 AI Investment Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_investment_agent)
-- [👨‍⚖️ AI Legal Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_legal_agent_team)
-- [👨‍💼 AI Services Agency](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_services_agency)
-- [🏋️‍♂️ AI Health & Fitness Planner Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_health_fitness_agent)
-- [📈 AI Startup Trend Analysis Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_startup_trend_analysis_agent)
-- [🗞️ AI Journalist Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_journalist_agent)
-- [💲 AI Finance Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_finance_agent_team)
-- [💰 AI Personal Finance Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_personal_finance_agent)
-- [🛫 AI Travel Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_travel_agent)
-- [🎬 AI Movie Production Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_movie_production_agent)
-- [📰 Multi-Agent AI Researcher](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/multi_agent_researcher)
-- [📑 AI Meeting Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_meeting_agent)
-- [🌐 Local News Agent OpenAI Swarm](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/local_news_agent_openai_swarm)
-- [📊 AI Finance Agent with xAI Grok](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/xai_finance_agent)
-- [🧠 AI Reasoning Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_reasoning_agent)
-- [🧬 Multimodal AI Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/multimodal_ai_agent)
+Este proyecto nace con la misión de hacer la Inteligencia Artificial accesible a toda la comunidad hispanohablante. Proporcionamos una colección completa de aplicaciones, tutoriales y recursos en español para aprender y trabajar con IA.
 
-### RAG (Retrieval Augmented Generation)
-- [🔍 Autonomous RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/autonomous_rag)
-- [🔗 Agentic RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/agentic_rag)
-- [🔄 Llama3.1 Local RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/llama3.1_local_rag)
-- [🧩 RAG-as-a-Service](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag-as-a-service)
-- [🦙 Local RAG Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/local_rag_agent)
-- [👀 RAG App with Hybrid Search](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/hybrid_search_rag)
-- [🖥️ Local RAG App with Hybrid Search](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/local_hybrid_search_rag)
+## 🎯 Características Principales
 
-### LLM Apps with Memory
-- [💾 AI Arxiv Agent with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/llm_apps_with_memory_tutorials/ai_arxiv_agent_memory)
-- [📝 LLM App with Personalized Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/llm_apps_with_memory_tutorials/llm_app_personalized_memory)
-- [🛩️ AI Travel Agent with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/llm_apps_with_memory_tutorials/ai_travel_agent_memory)
-- [🗄️ Local ChatGPT with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/llm_apps_with_memory_tutorials/local_chatgpt_with_memory)
+### 🤖 Agentes de IA
+- Asistentes virtuales personalizados
+- Agentes conversacionales avanzados
+- Sistemas multiagente
 
-### Chat with X
-- [💬 Chat with GitHub Repo](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/chat_with_X_tutorials/chat_with_github)
-- [📨 Chat with Gmail](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/chat_with_X_tutorials/chat_with_gmail)
-- [📄 Chat with PDF](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/chat_with_X_tutorials/chat_with_pdf)
-- [📚 Chat with Research Papers](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/chat_with_X_tutorials/chat_with_research_papers)
-- [📝 Chat with Substack Newsletter](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/chat_with_X_tutorials/chat_with_substack)
-- [📽️ Chat with YouTube Videos](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/chat_with_X_tutorials/chat_with_youtube_videos)
+### 🧠 Aplicaciones con LLMs
+- Integración con GPT-4, Claude y Llama
+- Chatbots especializados
+- Procesamiento de lenguaje natural
 
-### LLM Finetuning
-- [🌐 Llama3.2 Finetuning](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/llm_finetuning_tutorials/llama3.2_finetuning)
+### 📚 Tutoriales RAG
+- Recuperación y generación aumentada
+- Sistemas de búsqueda semántica
+- Bases de conocimiento personalizadas
 
-### Advanced Tools and Frameworks
-- [🧪 Gemini Multimodal Chatbot](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/gemini_multimodal_chatbot)
-- [🔄 Mixture of Agents](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/mixture_of_agents)
-- [🌐 MultiLLM Chat Playground](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/multillm_chat_playground)
-- [🔗 LLM Router App](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/llm_router_app)
-- [💬 Local ChatGPT Clone](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/local_chatgpt_clone)
-- [🌍 Web Scraping AI Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/web_scrapping_ai_agent)
-- [🔍 Web Search AI Assistant](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/web_search_ai_assistant)
-- [🧪 Cursor AI Experiments](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_tools_frameworks/cursor_ai_experiments)
+### 💬 Chatbots
+- Implementaciones locales
+- Integración con múltiples fuentes
+- Memoria y contexto persistente
 
-## 🚀 Getting Started
+### 🔧 Herramientas Avanzadas
+- Frameworks de desarrollo
+- Utilidades de procesamiento
+- Herramientas de optimización
 
-1. **Clone the repository** 
+## 🚀 Inicio Rápido
 
-    ```bash 
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git 
-    ```
+```bash
+# Clonar el repositorio
+git clone https://github.com/0xnavarro/IA-PARA-TODOS.git
 
-2. **Navigate to the desired project directory**
+# Entrar al directorio
+cd IA-PARA-TODOS
 
-    ```bash 
-    cd awesome-llm-apps/chat_with_gmail 
-    ```
+# Crear entorno virtual
+python -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
 
-3. **Install the required dependencies**
+# Instalar dependencias
+pip install -r requirements.txt
+```
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+## 📚 Estructura del Proyecto
 
-4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
+```
+IA-PARA-TODOS/
+├── 🤖 agentes-ia/
+│   ├── asistente-personal/
+│   ├── agente-financiero/
+│   └── ...
+├── 🧠 llm-apps/
+│   ├── gpt4-ejemplos/
+│   ├── llama-local/
+│   └── ...
+├── 📚 tutoriales-rag/
+│   ├── busqueda-hibrida/
+│   ├── rag-autonomo/
+│   └── ...
+└── ...
+```
 
-## 🤝 Contributing to Open Source
+## 📖 Documentación
 
-Contributions are welcome! If you have any ideas, improvements, or new apps to add, please create a new [GitHub Issue](https://github.com/Shubhamsaboo/awesome-llm-apps/issues) or submit a pull request. Make sure to follow the existing project structure and include a detailed `README.md` for each new app.
+Visita nuestra [documentación completa](https://0xnavarro.github.io/IA-PARA-TODOS) para:
+- Guías detalladas de instalación
+- Tutoriales paso a paso
+- Referencias de API
+- Ejemplos de uso
+- Mejores prácticas
 
-### Thank You, Community, for the Support! 🙏
+## 🎥 Tutoriales en Video
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+Encuentra nuestros tutoriales detallados en [YouTube](https://youtube.com/@TU_CANAL):
+- Implementaciones paso a paso
+- Explicaciones conceptuales
+- Casos de uso prácticos
+- Trucos y consejos
 
-🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
+## 🤝 Contribuir
+
+¡Las contribuciones son bienvenidas! Lee nuestra [guía de contribución](CONTRIBUTING.md) para aprender cómo puedes ayudar.
+
+### Formas de Contribuir
+- 🐛 Reportar bugs
+- 💡 Sugerir nuevas características
+- 📝 Mejorar la documentación
+- 🔧 Enviar pull requests
+- 💬 Ayudar en las discusiones
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia Apache 2.0 - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+## 🌟 Apoya el Proyecto
+
+Si este proyecto te ha sido útil, considera:
+- ⭐ Darle una estrella al repositorio
+- 📢 Compartirlo en redes sociales
+- 👥 Unirte a nuestra comunidad
+- 🤝 Contribuir con código o documentación
+
+## 📞 Contacto
+
+- Twitter: [@0xnavarro](https://twitter.com/0xnavarro)
+- Discord: [Comunidad IA-PARA-TODOS](https://discord.gg/TU_LINK)
+- GitHub Discussions: [Foro de la comunidad](https://github.com/0xnavarro/IA-PARA-TODOS/discussions)
+
+---
+
+<div align="center">
+
+**Hecho con ❤️ para la comunidad hispanohablante**
+
+</div>
