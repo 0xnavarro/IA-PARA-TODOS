@@ -98,7 +98,7 @@ Visita nuestra [documentación completa](https://0xnavarro.github.io/IA-PARA-TOD
 
 ## 🎥 Tutoriales en Video
 
-Encuentra nuestros tutoriales detallados en [YouTube](https://youtube.com/@TU_CANAL):
+Encuentra nuestros tutoriales detallados en [YouTube](https://www.youtube.com/channel/UC-9foKZSXtH3zm-4b8qzbtA):
 - Implementaciones paso a paso
 - Explicaciones conceptuales
 - Casos de uso prácticos
